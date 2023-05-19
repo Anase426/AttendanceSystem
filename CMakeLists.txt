@@ -3,4 +3,4 @@ project(AttendanceSystem C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(AttendanceSystem main.c Show.c header/Show.h)
+add_executable(AttendanceSystem main.c Show.c header/Show.h input.c header/input.h header/struct.h)

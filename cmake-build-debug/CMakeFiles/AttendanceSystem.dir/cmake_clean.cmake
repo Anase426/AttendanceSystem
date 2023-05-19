@@ -4,6 +4,8 @@ file(REMOVE_RECURSE
   "AttendanceSystem.pdb"
   "CMakeFiles/AttendanceSystem.dir/Show.c.obj"
   "CMakeFiles/AttendanceSystem.dir/Show.c.obj.d"
+  "CMakeFiles/AttendanceSystem.dir/input.c.obj"
+  "CMakeFiles/AttendanceSystem.dir/input.c.obj.d"
   "CMakeFiles/AttendanceSystem.dir/main.c.obj"
   "CMakeFiles/AttendanceSystem.dir/main.c.obj.d"
   "libAttendanceSystem.dll.a"

@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "E:/DM/GS/AttendanceSystem/Show.c" "CMakeFiles/AttendanceSystem.dir/Show.c.obj" "gcc" "CMakeFiles/AttendanceSystem.dir/Show.c.obj.d"
+  "E:/DM/GS/AttendanceSystem/input.c" "CMakeFiles/AttendanceSystem.dir/input.c.obj" "gcc" "CMakeFiles/AttendanceSystem.dir/input.c.obj.d"
   "E:/DM/GS/AttendanceSystem/main.c" "CMakeFiles/AttendanceSystem.dir/main.c.obj" "gcc" "CMakeFiles/AttendanceSystem.dir/main.c.obj.d"
   )
 

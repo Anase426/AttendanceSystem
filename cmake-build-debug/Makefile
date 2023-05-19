@@ -152,6 +152,30 @@ Show.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AttendanceSystem.dir\build.make CMakeFiles/AttendanceSystem.dir/Show.c.s
 .PHONY : Show.c.s
 
+input.obj: input.c.obj
+.PHONY : input.obj
+
+# target to build an object file
+input.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AttendanceSystem.dir\build.make CMakeFiles/AttendanceSystem.dir/input.c.obj
+.PHONY : input.c.obj
+
+input.i: input.c.i
+.PHONY : input.i
+
+# target to preprocess a source file
+input.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AttendanceSystem.dir\build.make CMakeFiles/AttendanceSystem.dir/input.c.i
+.PHONY : input.c.i
+
+input.s: input.c.s
+.PHONY : input.s
+
+# target to generate assembly for a file
+input.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\AttendanceSystem.dir\build.make CMakeFiles/AttendanceSystem.dir/input.c.s
+.PHONY : input.c.s
+
 main.obj: main.c.obj
 .PHONY : main.obj
 
@@ -188,6 +212,9 @@ help:
 	@echo ... Show.obj
 	@echo ... Show.i
 	@echo ... Show.s
+	@echo ... input.obj
+	@echo ... input.i
+	@echo ... input.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

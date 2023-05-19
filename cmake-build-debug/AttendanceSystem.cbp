@@ -80,6 +80,15 @@
 		<Unit filename="E:/DM/GS/AttendanceSystem/header/Show.h">
 			<Option target="AttendanceSystem"/>
 		</Unit>
+		<Unit filename="E:/DM/GS/AttendanceSystem/header/input.h">
+			<Option target="AttendanceSystem"/>
+		</Unit>
+		<Unit filename="E:/DM/GS/AttendanceSystem/header/struct.h">
+			<Option target="AttendanceSystem"/>
+		</Unit>
+		<Unit filename="E:/DM/GS/AttendanceSystem/input.c">
+			<Option target="AttendanceSystem"/>
+		</Unit>
 		<Unit filename="E:/DM/GS/AttendanceSystem/main.c">
 			<Option target="AttendanceSystem"/>
 		</Unit>
