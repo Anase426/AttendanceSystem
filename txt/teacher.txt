@@ -1,0 +1,6 @@
+teacher{
+userID:202,
+username:zhangsan,
+password:123456,
+class:[1,2]
+}

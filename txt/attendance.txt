@@ -1,0 +1,6 @@
+attendance{
+qdID:1001,
+class:1,
+qdStartTime:121312313,
+qdEndTime:1231345354
+}

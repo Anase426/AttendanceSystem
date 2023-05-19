@@ -1,0 +1,3 @@
+"D:\ProgramData\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\AttendanceSystem.dir/objects.a
+D:\ProgramData\mingw64\bin\ar.exe qc CMakeFiles\AttendanceSystem.dir/objects.a @CMakeFiles\AttendanceSystem.dir\objects1.rsp
+D:\ProgramData\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\AttendanceSystem.dir/objects.a -Wl,--no-whole-archive -o AttendanceSystem.exe -Wl,--out-implib,libAttendanceSystem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AttendanceSystem.dir\linklibs.rsp
